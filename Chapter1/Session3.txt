@@ -1,0 +1,1 @@
+Metadata - It is the data that describes other data, it summarizes the key details of the data.
