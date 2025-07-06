@@ -1,0 +1,5 @@
+Data 
+
+Two types: 
+1. Structured = It consist of rows and columns
+2. Unstructured = files like text files, audio, videos lacks structure and cant be organised in rows and columns.
