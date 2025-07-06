@@ -1,0 +1,7 @@
+Two primary method exits for collecting and preparing data for AI modelling:
+
+1. Labeled data - --suppose 50 images of animals are there and they also have a label of weather they are dogs or not, or labelling comments
+                  on weather they are negative, neutral or positive.
+                  -- models trained with labeled data are more reliable and can perform very well in real-world applications.
+                
+2. Unlabeled data - -- in todays time AI models learn by themselves, so using this kind is cheaper and faster.
