@@ -1,0 +1,8 @@
+This helps the machine to learn by itself.
+
+It helpts the machine learn how to solve problems. What it basically do is to provide machine with a lot of data to train with. It learns to recognize patterns in training data.
+
+BETTER AND UPDATED DATA = BETTER RESULT
+
+
+Models improve prediction and analysis as they encounter new data types and updated algos.

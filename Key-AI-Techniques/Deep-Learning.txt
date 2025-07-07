@@ -1,0 +1,4 @@
+It is a subset of machine learning.
+It's a complex process that allows machines to learn by processing input information in stages.
+It uses artificial neural networks that takes a input use hidden layers to process it and then gives the output.
+There can be multiple hidden layers, increasing layers also increases the learning capacity, but the downside that it needs to be carefully managed to ensure effective learning.

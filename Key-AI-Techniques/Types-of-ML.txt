@@ -1,0 +1,11 @@
+There are three types of ML:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+1. Suoervised Learning - It excels when we work with Labeled data, the other task of it is predicting the outcome. We can say that in suervised learning we train the models with known outputs to guide its learning.
+
+2. Unsupervised Learning - We process data without labels. 
+
+3. Reinforcement Learning - It works without labeled data and is applied in specific scenarios where the machine figures out how to reach a designated port. The ML model learnwith trial and error. 
