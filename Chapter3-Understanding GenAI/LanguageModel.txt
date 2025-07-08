@@ -1,0 +1,20 @@
+Language models are PROBABLISTIC, capable of predicting the missing word in a sentence based on the context provided by preceding words. Its like word association.
+
+2 types:
+
+1. Masked - It can guess the missing word regardless of its position in a sentence. The model use the info before and after the missing word to fill it.
+
+2. Autorefressive - It predicts the next word. They use the context of precedding words and predict the next word.
+
+Four Core Language Modeling Techniques- 
+
+1. N-Grams - Estimate a word's probability based on the preceding n-1 words. 
+2. Recurrent Neural Networks - The ability to analyse previous words it the main focus of the technique.
+3. Long Short-Term Memory - Improved the previous RNN networks.
+4. Transformers and the attention mechanism
+
+Prompt Enginnering - When we explain to the mdel how to behave, we don't change the weight and use verbal instructions. This is fairly easy to do.
+
+RAG(Retrieval Augmented Generation) - Expand context by attaching a library, we don't change the weight and just attach a database.
+
+Fine-Tuning - Additional training for an already trained model, we change the weight in this and also add some extra data.
