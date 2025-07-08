@@ -1,0 +1,7 @@
+Language models are PROBABLISTIC, capable of predicting the missing word in a sentence based on the context provided by preceding words. Its like word association.
+
+2 types:
+
+1. Masked - It can guess the missing word regardless of its position in a sentence. The model use the info before and after the missing word to fill it.
+
+2. Autorefressive - It predicts the next word. They use the context of precedding words and predict the next word.
