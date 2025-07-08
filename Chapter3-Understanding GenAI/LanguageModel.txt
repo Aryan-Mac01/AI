@@ -12,3 +12,9 @@ Four Core Language Modeling Techniques-
 2. Recurrent Neural Networks - The ability to analyse previous words it the main focus of the technique.
 3. Long Short-Term Memory - Improved the previous RNN networks.
 4. Transformers and the attention mechanism
+
+Prompt Enginnering - When we explain to the mdel how to behave, we don't change the weight and use verbal instructions. This is fairly easy to do.
+
+RAG(Retrieval Augmented Generation) - Expand context by attaching a library, we don't change the weight and just attach a database.
+
+Fine-Tuning - Additional training for an already trained model, we change the weight in this and also add some extra data.
